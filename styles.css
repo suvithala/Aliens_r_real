@@ -1,0 +1,25 @@
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-top: 50px;
+  font-weight: solid
+}
+
+th {
+	color:	black;
+	margin-bottom: 60px;
+	text-align: left;
+	font-weight: solid
+}
+
+#Page {
+	 border: 0;
+	 font-weight: solid
+	 
+}
+
+h4 {
+	
+	margin-right: 40px;
+	font-weight: solid
+}
